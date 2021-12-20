@@ -1,16 +1,12 @@
-# Amreen Parveen
-## ALthough I have an '🥭' in my name, I aspire to be an '🍎' someday.
-### Example Data Science portfolio
+# Welcome to Amreen Parveen's homepage.
+## I am Data Science student at [IIT Madras](https://onlinedegree.iitm.ac.in/) and currently working as a home tutor.
+Hi, I'm Amreen.
+I graduated with an honours degree in Maths from [Dyal Singh College, DU](https://www.dsc.du.ac.in/).
 
-###Project 1: Calculator
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-- Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-when an unknown printer took a galley of type and scrambled it to make a type 
-specimen book. It has survived not only five centuries, but also the leap into 
-electronic typesetting, remaining essentially unchanged. It was popularised in
-- the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-and more recently with desktop publishing software like Aldus PageMaker including 
-versions of Lorem Ipsum.
+My job consists of focusing and attaining the skills required to be a data scientist.
+With the access of Youtube tutorials I have learnt Data visualization in Excel, Python, SQL, HTML and CSS.
+I have basic knowledge of JAVA, CPP, LaTex and R.
+
 - This is a [link](https://www.lipsum.com/)
 - This is an image![Warner Brothers Animation Wallpaper_ Sylvester](https://user-images.githubusercontent.com/96365038/146729247-d0fabd6f-b4b4-45f1-98d2-52298a96e5fd.jpg)
 "Sylvester")
